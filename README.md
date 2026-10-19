@@ -1,0 +1,1 @@
+- **Frontend:** Vue.js 3 + Axios + Tailwind CSS (`asset-web`)
